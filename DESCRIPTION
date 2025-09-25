@@ -4,8 +4,7 @@ Title: What the Package Does (Title Case)
 Version: 0.1.0
 Author: KeisukeKawata
 Maintainer: KeisukeKawata <keisukekawata7@gmail.com>
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
+Description: The data4kawata data package provides example data sets.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
