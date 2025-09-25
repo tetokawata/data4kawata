@@ -1,0 +1,11 @@
+Package: data4kawata
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: KeisukeKawata
+Maintainer: KeisukeKawata <keisukekawata7@gmail.com>
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
