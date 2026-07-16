@@ -16,8 +16,8 @@ pak::pak("tetokawata/data4kawata")
 ## 例
 
 ``` r
-data(aparment, package = "data4kawata")
+data(apartment, package = "data4kawata")
 
-aparment
+apartment
 ```
 
