@@ -16,6 +16,13 @@
 pak::pak("tetokawata/data4kawata")
 ```
 
+`pak` でエラーが出る場合は、以下の`remotes`を試してみてください
+
+``` r
+# install.packages("remotes")
+remotes::install_github("tetokawata/data4kawata")
+```
+
 ## 例
 
 ``` r
